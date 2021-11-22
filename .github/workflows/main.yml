@@ -16,4 +16,3 @@ jobs:
         mypy-flags: ''
         fail-on-isort: True
 
-
